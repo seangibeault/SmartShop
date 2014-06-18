@@ -18,9 +18,9 @@ Features
 
 
 *Members*
-**Ehidiamen Ojielu**
-**Brandon Auwaerter**
-**Sean Gibeault**
-**Christian Burkhart**
-**Tung Vo**
+*Ehidiamen Ojielu
+*Brandon Auwaerter
+**Sean Gibeault
+*Christian Burkhart
+*Tung Vo
 
